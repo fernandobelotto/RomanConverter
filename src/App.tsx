@@ -1,12 +1,8 @@
 import {
-  Box,
-  Button,
-  Center,
+  Box, Center,
   Heading,
   Input,
-  Text,
-  useClipboard,
-  VStack,
+  Text, VStack
 } from "@chakra-ui/react";
 import { useEffect, useState } from "react";
 
